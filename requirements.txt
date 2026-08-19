@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+sentencepiece
+wordfreq
+nltk
+#pip install -r requirements.txt
+
+python -m  streamlit run gui.py
