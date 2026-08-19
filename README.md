@@ -1,8 +1,8 @@
-# Autocorrect Pro (An Intelligent Autocorrect Tool)
+# Autocorrect (An Intelligent Autocorrect Tool)
 
 ## Overview
 
-Autocorrect Pro is a hybrid NLP-based text correction system developed in Python that combines a custom rule-based spelling correction engine with a transformer-based grammar correction model. The system performs real-time spelling and grammar correction through a two-stage processing pipeline.
+Autocorrect is a hybrid NLP-based text correction system developed in Python that combines a custom rule-based spelling correction engine with a transformer-based grammar correction model. The system performs real-time spelling and grammar correction through a two-stage processing pipeline.
 
 ---
 
